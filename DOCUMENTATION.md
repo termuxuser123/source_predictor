@@ -2,7 +2,6 @@
 ## Complete Documentation
 
 **Version:** 2.1  
-**Last Updated:** January 7, 2026  
 **Project:** SIH 2025 - Delhi NCR Pollution Source Predictor
 
 ---
@@ -693,7 +692,6 @@ http://localhost:5000
 
 # 10. Live Data System
 
-**Added in Version 2.1 (Jan 2026)**
 
 The system now supports real-time source attribution using a hybrid data approach.
 
